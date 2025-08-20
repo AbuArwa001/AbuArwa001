@@ -2,7 +2,7 @@
 
 <p>
   
-Hi 👋, I am **AbuArwa001** A highly skilled Software Engineer (Backend Specialization) and Network Engineer with 4+ years of experience in IT infrastructure and full-stack development. Certified in Oracle Cloud (OCI) and pursuing AWS Cloud Practitioner, with expertise in Python, C, Linux systems, and network security. Passionate about building scalable solutions, optimizing systems, and contributing to open-source projects. I love to network, join new communities and add value ✨
+Hi 👋, I am **AbuArwa001** A highly skilled Software Engineer (Backend Specialization) and Network Engineer with 4+ years of experience in IT infrastructure and full-stack development. Certified in Oracle Cloud (OCI),  AWS Cloud Practitioner and pursuing AWS Solutions Architect, with expertise in Python, C, Linux systems, and network security. Passionate about building scalable solutions, optimizing systems, and contributing to open-source projects. I love to network, join new communities and add value ✨
 <h2 align="center">About Me</h2>
 
 ###
