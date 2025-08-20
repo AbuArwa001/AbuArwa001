@@ -33,8 +33,7 @@ Hi 👋, I am **AbuArwa001** A highly skilled Software Engineer (Backend Special
 ## 🔥 Github Stats
 <img align="right" width="38%" src="https://i.imgur.com/MbEaxEQ.jpeg"/>
 
-
-  <a href="https://github.com/AbuArwa001"><img width="50%" src="https://github-readme-stats.vercel.app/api?username=AbuArwa001&theme=radical&title_color=ff3068?"></a>
+  ![Khalfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AbuArwa001&show_icons=true&theme=radical)
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=AbuArwa001&theme=radical&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /></a>
 
 
