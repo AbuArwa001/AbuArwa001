@@ -25,7 +25,7 @@ Hi 👋, I am **AbuArwa001** A highly skilled Software Engineer (Backend Special
 
 - 💬 Ask me about **open source, web development, and community management**
 
-- 📫 Reach me out at **contact@khalfanathman.co.ke**
+- 📫 Reach me out at **khalfan@khalfanathman.dev**
 
 </details>
   
